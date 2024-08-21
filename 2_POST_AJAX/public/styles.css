@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    margin-top: 10px;
+    color: #666;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+#message {
+    font-weight: bold;
+    margin-top: 10px;
+}
